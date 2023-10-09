@@ -1,0 +1,15 @@
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\bin\Debug\net7.0\Infrastracture.deps.json
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\bin\Debug\net7.0\Infrastracture.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\bin\Debug\net7.0\Infrastracture.pdb
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\bin\Debug\net7.0\Core.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\bin\Debug\net7.0\Core.pdb
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.csproj.AssemblyReference.cache
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.AssemblyInfoInputs.cache
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.AssemblyInfo.cs
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.csproj.CoreCompileInputs.cache
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.csproj.CopyComplete
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\refint\Infrastracture.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.pdb
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\ref\Infrastracture.dll

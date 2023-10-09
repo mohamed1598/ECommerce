@@ -1,0 +1,13 @@
+<div class="container">
+    <div class="row d-flex align-items-center justify-content-center">
+        <form class="col-md-7 col-lg-5" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <h2 class="text-center mb-3">Login</h2>
+            <app-text-input formControlName="email" [label]="'Email Address'"></app-text-input>
+            <app-text-input formControlName="password" [label]="'Password'" [type]="'password'"></app-text-input>
+            <button [disabled]="loginForm.invalid" type="submit" class="btn btn-primary form-control my-2">Submit</button>
+        </form>
+    </div>
+    <div class="col-4">
+
+    </div>
+</div>

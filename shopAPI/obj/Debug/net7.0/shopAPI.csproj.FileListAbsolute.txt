@@ -101,7 +101,6 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.AssemblyInfoInputs.cache
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.AssemblyInfo.cs
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.csproj.CoreCompileInputs.cache
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\staticwebassets\msbuild.shopAPI.Microsoft.AspNetCore.StaticWebAssets.props
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.shopAPI.props
@@ -120,3 +119,4 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\ref\shop
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.MvcApplicationPartsAssemblyInfo.cs

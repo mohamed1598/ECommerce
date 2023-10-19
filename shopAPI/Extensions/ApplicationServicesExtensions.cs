@@ -1,4 +1,5 @@
 ﻿using Core.Interfaces;
+using Infrastracture.Data;
 using Infrastracture.Data.Repositories;
 using Infrastracture.Data.Services;
 using Infrastracture.Repositories;
@@ -12,6 +13,8 @@ namespace shopAPI.Extensions
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddScoped<ITokenService,TokenService>();
+            services.AddScoped<IOrderService, OrderService>();
+            services.AddScoped<IUnitOfWork,UnitOfWork>();
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IBasketRepository, BasketRepository>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));

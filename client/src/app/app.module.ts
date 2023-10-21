@@ -12,6 +12,8 @@ import { HomeModule } from './home/home.module';
 import { ErrorInterceptor } from './core/Interceptors/error.interceptor';
 import { NgxSpinner, NgxSpinnerModule } from 'ngx-spinner';
 import { LoadingInterceptor } from './core/Interceptors/loading.interceptor';
+import { JwtInterceptor } from './core/Interceptors/jwt-interceptor';
+import { OrdersModule } from './orders/orders.module';
 
 @NgModule({
   declarations: [
@@ -26,12 +28,14 @@ import { LoadingInterceptor } from './core/Interceptors/loading.interceptor';
     CoreModule,
     ShopModule,
     HomeModule,
+    OrdersModule,
     PaginationModule.forRoot(),
     NgxSpinnerModule.forRoot({type:'ball-scale-multiple'})
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS,useClass: ErrorInterceptor,multi: true},
     {provide: HTTP_INTERCEPTORS,useClass: LoadingInterceptor,multi: true},
+    {provide: HTTP_INTERCEPTORS,useClass: JwtInterceptor,multi: true},
   ],
   bootstrap: [AppComponent]
 })

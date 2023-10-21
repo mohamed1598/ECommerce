@@ -10,6 +10,7 @@ const routes: Routes = [
   {path:'',component: HomeComponent , data:{breadcrumb: 'Home'}},
   {path:'shop',loadChildren:()=> import('./shop/shop.module').then(mod =>mod.ShopModule), data:{breadcrumb: 'Shop'}},
   {path:'basket',loadChildren:()=> import('./basket/basket.module').then(mod =>mod.BasketModule), data:{breadcrumb: 'Basket'}},
+  {path:'orders',loadChildren:()=> import('./orders/orders.module').then(mod =>mod.OrdersModule), data:{breadcrumb: 'Basket'}},
   {path:'checkout',canActivate:[authGuard],loadChildren:()=> import('./checkout/checkout.module').then(mod =>mod.CheckoutModule), data:{breadcrumb: 'Checkout'}},
   {path:'account',loadChildren:()=> import('./account/account.module').then(mod =>mod.AccountModule), data:{breadcrumb: {skip:true}}},
   {path:'test-error',component: TestErrorComponentComponent, data:{breadcrumb: 'Test Errors'}},

@@ -17,15 +17,10 @@ export class TextInputComponent implements OnInit, ControlValueAccessor {
     const control = this.ControlDir.control;
     const validators = control?.validator ? [control.validator] : [];
     const asyncValidators = control?.asyncValidator ? [control.asyncValidator] : [];
-    console.log(validators);
     
     control?.setValidators(validators);
     control?.setAsyncValidators(asyncValidators);
     control?.updateValueAndValidity();
-    console.log(this.ControlDir);
-    
-    console.log(this.ControlDir.control?.errors);
-
     
   }
 

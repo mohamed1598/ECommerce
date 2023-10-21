@@ -29,7 +29,7 @@ namespace shopAPI.Controllers
         {
             var email = HttpContext.User.RetreiveEmailFromPrincipal();
             var address = mapper.Map<Address>(orderDto.ShipToAddress);
-            var order = await orderService.CreateOrderAsync(email,orderDto.DelvieryMethodId,orderDto.BasketId,address);
+            var order = await orderService.CreateOrderAsync(email,orderDto.DeliveryMethodId,orderDto.BasketId,address);
             if (order == null)
                 return BadRequest(new ApiResponse(400, "Proplem Createing Order"));
             return Ok(order);
@@ -43,12 +43,13 @@ namespace shopAPI.Controllers
             return Ok(mapper.Map<IReadOnlyList<OrderToReturnDto>>(orders));
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult<Order>> GetOrderByIdForUser(int id)
+        public async Task<ActionResult<OrderToReturnDto>> GetOrderByIdForUser(int id)
         {
             var email = HttpContext.User.RetreiveEmailFromPrincipal();
             var order = await orderService.GetOrderByIdAsync(id, email!);
             if (order == null) return NotFound(new ApiResponse(404));
-            return Ok(mapper.Map<IReadOnlyList<OrderToReturnDto>>(order));
+
+            return Ok(mapper.Map<OrderToReturnDto>(order));
         }
         [HttpGet("DeliveryMethods")]
         public async Task<ActionResult<IReadOnlyList<DeliveryMethod>>> GetDeliveryMethods()

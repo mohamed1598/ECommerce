@@ -14,7 +14,7 @@ export class BasketComponent {
     this.basket$ = basketService.basket$ as Observable<IBasket>;
   }
 
-  removeBaketItem(item:IBasketItem){
+  removeBasketItem(item:IBasketItem){
     this.basketService.removeItemFromBasket(item);
   }
 

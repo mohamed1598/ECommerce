@@ -63,7 +63,6 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -87,11 +86,7 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Core.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Infrastracture.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Infrastracture.pdb
@@ -119,4 +114,10 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\ref\shop
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\obj\Debug\net7.0\shopAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\Stripe.net.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\shopAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LjUJIwr5ojNjO8G6Fv1DHkLYdDNKARcF/LQnqWM1Nj4jALZoxHACWcll1+BIw5ljbYJw1PsmEohwcuxnb1+IDA==",
+  "dgSpecHash": "MJHee8c2d6TZZ1fHBSVP7sCNwfo7Xam6i4lTl3zPfP98MU5A/vrl2xIIVbGl+t/Ks9VUq04RO+BfgQI6GOYsWA==",
   "success": true,
   "projectFilePath": "D:\\tasks\\csharp\\.NET CORE\\Api Projects\\shopAPI\\Core\\Core.csproj",
   "expectedPackageFiles": [
@@ -31,5 +31,26 @@
     "C:\\Users\\Mohamed Elshafey\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed Elshafey\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0\\system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

@@ -13,3 +13,4 @@ D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\I
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\refint\Infrastracture.dll
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.pdb
 D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\ref\Infrastracture.dll
+D:\tasks\csharp\.NET CORE\Api Projects\shopAPI\Infrastracture\obj\Debug\net7.0\Infrastracture.sourcelink.json
